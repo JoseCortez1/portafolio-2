@@ -1,10 +1,7 @@
 import React, { Component } from 'react'
 import '../Styles/Home.css'
 
-import {
-    Link,
-} from 'react-router-dom'
-import Background_img from '../Img/background.svg'
+import Navbar from './Navbar'
 export default class Home extends Component {
     render() {
         return (
@@ -22,12 +19,10 @@ export default class Home extends Component {
                         <h4>Jose Eduardo Vazquez Cortez</h4>
                    </div>
                </div>
+                <div className="Home__main__navbar">
+                    <Navbar/>
+                </div>
 
-
-                <Link to="Experience"> Experience </Link>
-                <Link to="Projects"> Project </Link>
-                <Link to="Contact"> Contact </Link>
-                <Link to="/"> Home </Link>
             </div>
         )
     }

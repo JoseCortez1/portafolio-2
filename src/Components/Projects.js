@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-
+import Navbar from './Navbar'
 export default class Projects extends Component {
     render() {
         return (
             <div>
-                Projects
+                <Navbar home={true}/>
             </div>
         )
     }

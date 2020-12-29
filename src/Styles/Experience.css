@@ -1,0 +1,22 @@
+.experience__container{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+p{
+    margin: 0;
+}
+.experience__job{
+    padding: 20px;
+}
+.experience__job__title{
+    font-size: 24px;
+}
+.experience__job__date{
+    font-size: 18px;
+    text-align: right;
+    padding-bottom: 10px;
+}
+.experience__job__description{
+    font-size: 18px;
+}
