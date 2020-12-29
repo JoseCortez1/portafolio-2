@@ -1,0 +1,61 @@
+{
+    "projects":[
+        {
+            "title":"titulo del projecto",
+            "img":"img1.img",
+            "frontend":[
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                }
+            ]
+        },
+                {
+            "title":"titulo del projecto2",
+            "img":"img1.img",
+            "frontend":[
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                }
+            ],
+            "backend":[
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"some technology",
+                    "img":"icon1.ico",
+                    "alt":"this is the alt description"
+                }
+            ]
+        }
+
+    ]
+}
