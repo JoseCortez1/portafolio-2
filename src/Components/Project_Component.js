@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import '../Styles/Projects.css'
 export default class Project_Component extends Component {
 
      
@@ -7,7 +7,7 @@ export default class Project_Component extends Component {
         
         return (
             <div className="project_component">
-                <img src={this.props.data.img} alt="Imagen Site" srcset=""/>
+                <img className="project_component__img" src={"../img/" +this.props.data.img} alt="Imagen Site" srcset=""/>
                 <div>
                     <h3>{this.props.data.title}</h3>
                     <p>Front-End</p>

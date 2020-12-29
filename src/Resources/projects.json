@@ -2,7 +2,7 @@
     "projects":[
         {
             "title":"titulo del projecto",
-            "img":"img1.img",
+            "img":"img1.png",
             "frontend":[
                 {
                     "title":"some technology",
@@ -30,7 +30,7 @@
         },
                 {
             "title":"titulo del projecto2",
-            "img":"img1.img",
+            "img":"img1.png",
             "frontend":[
                 {
                     "title":"some technology",

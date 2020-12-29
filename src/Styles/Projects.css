@@ -1,3 +1,16 @@
-.projects{
+.container_projects{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.project_component{
+    background-color: rgba(220, 220, 220, 0.782);
+    margin: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.project_component__img{
     
 }
