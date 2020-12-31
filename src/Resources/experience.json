@@ -1,28 +1,19 @@
 {
     "jobs":[ 
-        {
+         {
             "title":"Soporte Tecnico",
-            "date_start":"2015 Agosto ",
-            "date_end":"2015 Enero  ",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis sed dolor sit amet dapibus. Ut eget metus nec ligula imperdiet euismod vel ac urna. Sed urna dolor, vestibulum sit amet vulputate eget, interdum a orci. Nullam luctus turpis sed placerat pulvinar. Nullam viverra aliquet risus, varius sagittis elit tincidunt congue. Donec condimentum ultricies orci, vel efficitur lectus euismod id. Pellentesque id magna dui."
+            "company":"Izzi Telecom",
+            "date_start":"2015 August ",
+            "date_end":"2015 Junuary  ",
+            "description":"<p>During this time i was support technical by intercom, my jobs consisted helping the costumer in their problems like bad working in the television signal and internet, i needed check level on the nodos in their zone and in some ocations made reports for techs for they can go to repair it.</p><p>However also i made a client support helping them, cheking not recognicer payments, made reports for mistreatment by employees.</p><p>In this work i have gotten communicate with difficuld people, and had experience dealing with them.</p>"        
         },
         {
-            "title":"Soporte Tecnico",
-            "date_start":"2015 Agosto ",
-            "date_end":"2015 Enero  ",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis sed dolor sit amet dapibus. Ut eget metus nec ligula imperdiet euismod vel ac urna. Sed urna dolor, vestibulum sit amet vulputate eget, interdum a orci. Nullam luctus turpis sed placerat pulvinar. Nullam viverra aliquet risus, varius sagittis elit tincidunt congue. Donec condimentum ultricies orci, vel efficitur lectus euismod id. Pellentesque id magna dui."
-        },
-        {
-            "title":"Soporte Tecnico",
-            "date_start":"2015 Agosto ",
-            "date_end":"2015 Enero  ",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis sed dolor sit amet dapibus. Ut eget metus nec ligula imperdiet euismod vel ac urna. Sed urna dolor, vestibulum sit amet vulputate eget, interdum a orci. Nullam luctus turpis sed placerat pulvinar. Nullam viverra aliquet risus, varius sagittis elit tincidunt congue. Donec condimentum ultricies orci, vel efficitur lectus euismod id. Pellentesque id magna dui."
-        },
-        {
-            "title":"Soporte Tecnico",
-            "date_start":"2015 Agosto ",
-            "date_end":"2015 Enero  ",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis sed dolor sit amet dapibus. Ut eget metus nec ligula imperdiet euismod vel ac urna. Sed urna dolor, vestibulum sit amet vulputate eget, interdum a orci. Nullam luctus turpis sed placerat pulvinar. Nullam viverra aliquet risus, varius sagittis elit tincidunt congue. Donec condimentum ultricies orci, vel efficitur lectus euismod id. Pellentesque id magna dui."
+            "title":"Web Developer",
+            "company":"Neo Redes Óptica de Occidente",
+            "date_start":"2020 June ",
+            "date_end":"Currently working",
+            "description":"<p>As a web developer i worked in a little team of three. i working in frontend and backend in the modules that i made.&nbsp;</p><p>Tasks are make modules for an application for the company, this application managment tickets for techs, this tickets save the current location of the browser which the session is open, allow take photos for the ticket, and save massage.</p><p>All this time i have been working for frontend VueJs and the design with Vuetify using .</p><p>For backend NodeJs where use MongoDB for data base, using express, cors, morgan an others.</p>"        
         }
+       
     ]
 }

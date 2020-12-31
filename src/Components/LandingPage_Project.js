@@ -18,6 +18,7 @@ function Landing(){
     let {id} = useParams();
     let data_project = projects[id];
     let dir_base = window.location.href.split('P')[0] + "img/"
+    
     return(
         <div className="landing_page">
             <img className="landing_page__img" src={dir_base + data_project.img} alt="Imagen del proyecto" srcset=""/>
@@ -27,7 +28,9 @@ function Landing(){
                 </h1>
                 <p>
                     {data_project.description_project}
+
                 </p>
+                
             </div>
         </div>
     )

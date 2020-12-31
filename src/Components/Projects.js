@@ -8,11 +8,12 @@ import '../Styles/Projects.css'
 import '../index.css'
 export default class Projects extends Component {
     render() {
+        let projects_reverse = projects.reverse()
         return (
             <div className="projects background_black">
                 <Navbar home={true}/>
                 <div className="container_projects">
-                    {projects.map( project =>(
+                    {projects_reverse.map( project =>(
                         <Project data={project} />
                     ))}
                 </div>
