@@ -1,57 +1,110 @@
 {
     "projects":[
         {
+            "id":0,
             "title":"titulo del projecto",
+            "description_project":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a leo sodales turpis convallis posuere et venenatis felis. Integer id quam faucibus, convallis mi ac, bibendum sapien. Sed pharetra molestie lacus nec porta. Morbi lobortis iaculis faucibus. Nunc congue faucibus diam et auctor. Cras metus dui, convallis in ligula sit amet, pellentesque mollis magna. Mauris euismod porttitor sagittis. Ut finibus urna magna, vel sagittis magna auctor a. Nam dignissim urna orci, vitae aliquam lorem rutrum at.            Aenean pharetra augue eu mi condimentum imperdiet. Etiam varius orci quis erat sodales, ac tincidunt magna egestas. Fusce non sapien bibendum, consectetur nunc eget, dignissim turpis. Maecenas volutpat lacus a imperdiet porta. Fusce egestas elit ligula, non eleifend dui malesuada ut. Mauris et enim ut lacus vestibulum ultrices. Maecenas imperdiet elit id magna posuere congue. Nulla eu ex eget dui egestas vehicula. In rutrum risus sed diam lacinia ultrices. Cras a erat leo. Phasellus id condimentum nisl. Suspendisse turpis massa, ullamcorper at pulvinar vel, mollis sed eros.Pellentesque nec eros velit. Vivamus tincidunt leo porttitor justo vulputate, vitae interdum quam suscipit. Ut eget felis id dui imperdiet placerat. In eros neque, cursus in velit vitae, mollis convallis elit. Integer erat augue, dapibus eget enim eget, efficitur vulputate quam. Morbi blandit mi sit amet mauris varius dapibus. Morbi vitae purus quis velit aliquet ullamcorper. Nam ut ante aliquam, blandit massa non, luctus libero. Cras et tellus eget justo aliquet consectetur.",
             "img":"img1.png",
             "frontend":[
                 {
-                    "title":"some technology",
-                    "img":"icon1.ico",
+                    "title":"React",
+                    "img":"react.svg",
                     "alt":"this is the alt description"
                 },
                 {
-                    "title":"some technology",
-                    "img":"icon1.ico",
+                    "title":"Express",
+                    "img":"npm.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"React",
+                    "img":"react.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"Express",
+                    "img":"npm.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"React",
+                    "img":"react.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"Express",
+                    "img":"npm.svg",
                     "alt":"this is the alt description"
                 }
             ],
             "backend":[
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"React",
+                    "img":"react.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"Express",
+                    "img":"npm.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"React",
+                    "img":"react.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"Express",
+                    "img":"npm.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"React",
+                    "img":"react.svg",
+                    "alt":"this is the alt description"
+                },
+                {
+                    "title":"Express",
+                    "img":"npm.svg",
                     "alt":"this is the alt description"
                 },
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
                     "alt":"this is the alt description"
                 }
             ]
         },
-                {
+        {
+            "id":1,
             "title":"titulo del projecto2",
             "img":"img1.png",
             "frontend":[
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
                     "alt":"this is the alt description"
                 },
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
                     "alt":"this is the alt description"
                 }
             ],
             "backend":[
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
                     "alt":"this is the alt description"
                 },
                 {
                     "title":"some technology",
-                    "img":"icon1.ico",
+                    "img":"css-3_official.svg",
                     "alt":"this is the alt description"
                 }
             ]

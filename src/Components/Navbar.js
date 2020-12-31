@@ -9,14 +9,14 @@ export default class Navbar extends Component {
         let home;
 
         if(this.props.home){
-            home = <Link className="navbar__container__link" to="/"> Home </Link>
+            home = <Link className="navbar__container__link"  to="Home" > Home </Link>
         }
         return (
             <div className="navbar">
                 <nav className="navbar__container">
-                    <Link className="navbar__container__link" to="Experience"> Experience </Link>
-                    <Link className="navbar__container__link" to="Projects"> Projects </Link>
-                    <Link className="navbar__container__link" to="Contact"> Contact </Link>
+                    <Link className="navbar__container__link" to="Experience" > Experience </Link>
+                    <Link className="navbar__container__link" to="Projects" > Projects </Link>
+                    <Link className="navbar__container__link" to="Contact" > Contact </Link>
                     {home}
                 </nav>
                 <div className="white_bar">
