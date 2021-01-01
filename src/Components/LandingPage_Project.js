@@ -4,6 +4,7 @@ import '../Styles/Landing_page.css'
 import '../index.css'
 import {projects} from '../Resources/projects.json'
 import {useParams} from 'react-router-dom'
+import { Markup } from 'interweave'
 export default class LandingPage_Project extends Component {
     render() {
         return (
@@ -21,15 +22,14 @@ function Landing(){
     
     return(
         <div className="landing_page">
-            <img className="landing_page__img" src={dir_base + data_project.img} alt="Imagen del proyecto" srcset=""/>
+            <a className="landing_page__link" href={(data_project.link) ? (data_project.link) : "#" }>
+                <img className="landing_page__img" src={dir_base + data_project.img} alt="Imagen del proyecto" srcset=""/>
+            </a>
             <div className="landing_page__description">
                 <h1>
                     {data_project.title}
                 </h1>
-                <p>
-                    {data_project.description_project}
-
-                </p>
+                <Markup content={data_project.description_project} />          
                 
             </div>
         </div>

@@ -3,8 +3,9 @@
         {
             "id":0,
             "title":"Accesorios Che",
-            "description_project":"",
-            "img":"img1.png",
+            "description_project":"<p>One of my first sites just have a html structure and a little of CSS, it has been one of my first personal projects.</p><p>It is on Netlify, <a data-fr-linked='true' href='https://accesoriosche.netlify.app/'>https://accesoriosche.netlify.app/</a>..</p><p>It has:</p><ol>    <li>HTML5</li>    <li>CSS3</li></ol><p><br></p><p><br></p>",
+            "img":"accesorios.png",
+            "link":"https://accesoriosche.netlify.app/",
             "frontend":[
                 {
                     "title":"HTML",
@@ -13,7 +14,7 @@
                 },
                 {
                     "title":"CSS",
-                    "img":"css-3.svg",
+                    "img":"css-3_official.svg",
                     "alt":"CSS icon"
                 }
             ],
@@ -21,32 +22,23 @@
         },
         {
             "id":1,
-            "title":"titulo del projecto2",
-            "img":"img1.png",
+            "title":"English School",
+            "link":"",
+            "description_project":"https://english-kevbra.netlify.app/",
+            "img":"school.png",
             "frontend":[
                 {
-                    "title":"some technology",
-                    "img":"css-3_official.svg",
-                    "alt":"this is the alt description"
+                    "title":"HTML",
+                    "img":"html-5.svg",
+                    "alt":"HTML icon"
                 },
                 {
-                    "title":"some technology",
+                    "title":"CSS",
                     "img":"css-3_official.svg",
-                    "alt":"this is the alt description"
+                    "alt":"CSS icon"
                 }
             ],
-            "backend":[
-                {
-                    "title":"some technology",
-                    "img":"css-3_official.svg",
-                    "alt":"this is the alt description"
-                },
-                {
-                    "title":"some technology",
-                    "img":"css-3_official.svg",
-                    "alt":"this is the alt description"
-                }
-            ]
+            "backend":[]
         }
 
     ]

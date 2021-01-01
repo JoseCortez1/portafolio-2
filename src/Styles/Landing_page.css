@@ -18,6 +18,14 @@
     margin: 0 auto;
     width: 100%;
 }
+.landing_page__img:hover{
+  transition: all 1s ease-in-out;
+  -webkit-filter: blur(3px) grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: blur(3px) grayscale(100%);
+}
+.landing_page__img::after{
+  content: "Link";
+}
 .landing_page__description{
     grid-area: descriptions;
     height: 75vh;
