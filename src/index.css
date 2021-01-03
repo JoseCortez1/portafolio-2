@@ -20,5 +20,5 @@ body {
 
 .background_black{
   background-color: #2b2b2bd7;
-  height: 100%;
+  min-height: 100vh;
 }

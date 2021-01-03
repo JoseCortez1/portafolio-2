@@ -1,5 +1,5 @@
 .landing_page__main{
-    height: 100vh;
+    min-height: 100vh;
     padding-top: 50px;
 }
 .landing_page{

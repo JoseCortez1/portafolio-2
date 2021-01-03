@@ -1,5 +1,5 @@
 .experience{
-    height: 100vh;
+    min-height: 100vh;
 }
 .experience__container{
     width: 80%;
