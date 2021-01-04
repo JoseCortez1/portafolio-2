@@ -21,9 +21,9 @@ function Landing(){
     let dir_base = window.location.href.split('P')[0] + "img/"
     
     return(
-        <div className="landing_page">
+        <div key={id} className="landing_page">
             <a className="landing_page__link" href={(data_project.link) ? (data_project.link) : "#" }>
-                <img className="landing_page__img" src={dir_base + data_project.img} alt="Imagen del proyecto" srcset=""/>
+                <img className="landing_page__img" src={dir_base + data_project.img} alt="Imagen del proyecto" srcSet=""/>
             </a>
             <div className="landing_page__description">
                 <h1>
