@@ -9,7 +9,7 @@ export default class Experience extends Component {
         let jobs_reverse = jobs.reverse()
         return (
             <div className="experience background_black">
-                <Navbar home={true}/>
+                <Navbar navbar_class="itIsNotHome" home={true}/>
                 <div className="experience__container">
                     {
                         jobs_reverse.map( job => (

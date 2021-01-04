@@ -2,6 +2,9 @@
     width: 90%;
     margin: 0 auto;
 }
+.burger_menu{
+    display: none;
+}
 .navbar__container{
     width: 80%;
     padding: 10px;
@@ -12,12 +15,25 @@
 }
 @media(max-width:700px){
     .navbar__container{
-        width: 80%;
+        width: 100%;
+        min-height: 40vh;
         padding: 10px;
         padding-top: 40px;
+        padding-bottom: 40px;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
+    }
+    .itIsNotHome{
+        display: none;
+    }
+    .burger_menu{
+        display: block;
+        margin-left: 20px;
+        padding: 0;
+    }
+    .burger_menu svg{
+        max-width: 50px
     }
 }
 .navbar__container__link{
