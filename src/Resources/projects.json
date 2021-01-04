@@ -44,7 +44,7 @@
             "id":2,
             "title":"Memorama Game",
             "link":"https://memorama-game.netlify.app/",
-            "description_project":"<p>Memorama game, i just wanna try do &nbsp;a little game, so that was the result</p><p>Link:&nbsp;<a href='https://memorama-game.netlify.app/'>https://memorama-game.netlify.app/</a></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul>",
+            "description_project":"<p>Memorama game, I just wanna try do &nbsp;a little game, so that was the result</p><p>Link:&nbsp;<a href='https://memorama-game.netlify.app/'>https://memorama-game.netlify.app/</a></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul>",
             "img":"memorama.png",
             "frontend":[
                 {
@@ -69,7 +69,7 @@
             "id":3,
             "title":"E-commerce",
             "link":"https://github.com/JoseCortez1/tienda-online",
-            "description_project":"<p>E-commerce was my first web with a backend i find this so interesting, i love backend since that, was and school project but a learn a lot.</p><p>Link: <a href='https://github.com/JoseCortez1/tienda-online'>https://github.com/JoseCortez1/tienda-online</a></p><p><strong>Frontend</strong></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul><p><strong>Backend</strong></p><ul>    <li>PHP7</li></ul>",            
+            "description_project":"<p>E-commerce was my first web with a backend I find this so interesting, I love backend since that, was and school project but a learn a lot.</p><p>Link: <a href='https://github.com/JoseCortez1/tienda-online'>https://github.com/JoseCortez1/tienda-online</a></p><p><strong>Frontend</strong></p><ul>    <li>HTML5</li>    <li>CSS3</li>    <li>JS</li></ul><p><strong>Backend</strong></p><ul>    <li>PHP7</li></ul>",            
             "img":"frontendphp.png",
             "frontend":[
                 {
@@ -161,7 +161,7 @@
             "id":6,
             "title":"Capstore",
             "link":"https://capstore.herokuapp.com/Home",
-            "description_project":"<p>This landing page was made for my family, to help to sell some of our products, i love made this project, was made from 0, in &nbsp;Reactjs consume and API to check the &nbsp;pics of hats,adn other for show the location of delivery points.</p><p>Code: <a href='https://github.com/JoseCortez1/store_MERN/tree/master/capstore'>https://github.com/JoseCortez1/store_MERN/tree/master/capstore</a></p><p>Link: <a href='https://capstore.herokuapp.com/Home'>https://capstore.herokuapp.com/Home</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li>    </ul><p><strong>API&apos;s</strong></p><ul>    <li><strong><a href='https://react-leaflet.js.org/'>https://react-leaflet.js.org/</a></strong></li>    <li><strong><a href='https://capstorebackend.herokuapp.com/api/products'>https://capstorebackend.herokuapp.com/api/products</a></strong></li></ul>",            
+            "description_project":"<p>This landing page was made for my family, to help to sell some of our products, I love made this project, was made from 0, in &nbsp;Reactjs consume and API to check the &nbsp;pics of hats,adn other for show the location of delivery points.</p><p>Code: <a href='https://github.com/JoseCortez1/store_MERN/tree/master/capstore'>https://github.com/JoseCortez1/store_MERN/tree/master/capstore</a></p><p>Link: <a href='https://capstore.herokuapp.com/Home'>https://capstore.herokuapp.com/Home</a></p><p><strong>Frontend</strong></p><ul>    <li>ReactJS</li>    <li>CSS3</li>    </ul><p><strong>API&apos;s</strong></p><ul>    <li><strong><a href='https://react-leaflet.js.org/'>https://react-leaflet.js.org/</a></strong></li>    <li><strong><a href='https://capstorebackend.herokuapp.com/api/products'>https://capstorebackend.herokuapp.com/api/products</a></strong></li></ul>",            
             "img":"capsote.png",
             "frontend":[
                 {
@@ -268,7 +268,7 @@
             "id":9,
             "title":"Vue Calendar",
             "link":"https://calendar-with-vue.netlify.app/",
-            "description_project":"<p>Vue Calendar was a test for an application, that i was develop in my job where we need implement a calendar</p><p>Code: <a href='https://github.com/JoseCortez1/calendar-with-vue'>https://github.com/JoseCortez1/calendar-with-vue</a></p><p>Link: <a href='https://calendar-with-vue.netlify.app/'>https://calendar-with-vue.netlify.app/</a></p><p><strong>Frontend</strong></p><ul>    <li>VueJs</li>    <li>Vuetify</li></ul><p><strong>Backend</strong></p><ul>    <li>Firebase</li></ul>",            
+            "description_project":"<p>Vue Calendar was a test for an application, that I was develop in my job where we need implement a calendar</p><p>Code: <a href='https://github.com/JoseCortez1/calendar-with-vue'>https://github.com/JoseCortez1/calendar-with-vue</a></p><p>Link: <a href='https://calendar-with-vue.netlify.app/'>https://calendar-with-vue.netlify.app/</a></p><p><strong>Frontend</strong></p><ul>    <li>VueJs</li>    <li>Vuetify</li></ul><p><strong>Backend</strong></p><ul>    <li>Firebase</li></ul>",            
             "img":"vue-calendar.png",
             "frontend":[
                 {
