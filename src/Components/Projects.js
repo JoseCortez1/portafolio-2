@@ -14,7 +14,7 @@ export default class Projects extends Component {
                 <Navbar burguer="itIsNotHome " navbar_class="burger_menu " home={true}/>
                 <div className="container_projects">
                     {projects_reverse.map( project =>(
-                        <Project data={project} />
+                        <Project key={project.id} data={project} />
                     ))}
                 </div>
             </div>
