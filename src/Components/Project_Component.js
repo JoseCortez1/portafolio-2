@@ -13,7 +13,7 @@ export default class Project_Component extends Component {
                 <p className="project_component__subtitle">Back-End</p>
                 <div className="project_component__container_technologies">
                     {this.props.data.backend.map(technology=>(
-                        <div className="tecnologie_container white">
+                        <div key={technology.title} className="tecnologie_container white">
                             <p className="technologie__title white">
                                 {technology.title}
                             </p>
@@ -29,7 +29,7 @@ export default class Project_Component extends Component {
                 <p className="project_component__subtitle">Front-End</p>
                 <div className="project_component__container_technologies">
                     {this.props.data.frontend.map(technology=>(
-                        <div className="tecnologie_container">
+                        <div key={technology.title} className="tecnologie_container">
                             <p className="technologie__title">
                                 {technology.title}
                             </p>
@@ -40,9 +40,9 @@ export default class Project_Component extends Component {
             </div>
         }
         return (
-            <div className="project_component">
+            <div id={this.props.data.id} key={this.props.data.id} className="project_component">
                 <div className="project_component__img_container">
-                    <img className="project_component__img" src={dir_base +this.props.data.img} alt="Imagen Site" srcset=""/>
+                    <img className="project_component__img" src={dir_base +this.props.data.img} alt="Imagen Site" srcSet=""/>
                     <a rel="noreferrer" target="_blank" href={base + "Project/" +this.props.data.id}>Ver mas</a>
                 </div>
                 <div className="project_component__technologies">
