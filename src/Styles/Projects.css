@@ -3,6 +3,11 @@
     margin: 0 auto;
     padding-bottom: 20px;
 }
+@media(max-width:700px){
+    .container_projects{
+        width: 100%;
+    }
+}
 
 .project_component{
     background-color: rgba(255, 255, 255, 0.213);
@@ -14,6 +19,13 @@
     grid-template-areas: 
         "img technology technology"
 
+}
+@media(max-width:700px){
+    .project_component{
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
 }
 .project_component__img_container{
     align-self: center;
@@ -47,13 +59,20 @@
     padding: 0 20px;
 
 }
+@media(max-width:700px){
+    .project_component__technologies:last-child{
+        margin-bottom: 20px;
+        
+    }
+}
 .project_component__title{
     text-transform: uppercase;
-    margin: auto auto;
+    
     text-align: center;
     font-weight: 900;
     margin: 0;
 }
+
 .project_component__subtitle{
     text-transform: uppercase;
     font-weight: 700;

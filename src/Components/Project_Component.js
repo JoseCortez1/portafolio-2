@@ -13,7 +13,7 @@ export default class Project_Component extends Component {
                 <p className="project_component__subtitle">Back-End</p>
                 <div className="project_component__container_technologies">
                     {this.props.data.backend.map(technology=>(
-                        <div className="tecnologie_container white">
+                        <div key={technology.title} className="tecnologie_container white">
                             <p className="technologie__title white">
                                 {technology.title}
                             </p>
