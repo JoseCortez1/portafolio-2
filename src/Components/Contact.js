@@ -9,7 +9,7 @@ export default class Contact extends Component {
     render() {
         return (
             <div className="contact background_black">
-                <Navbar home={true}/>
+                <Navbar burguer="itIsNotHome " navbar_class="burger_menu " home={true}/>
                 <Form />
             </div>
         )

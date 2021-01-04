@@ -20,7 +20,7 @@ export default class Home extends Component {
                    </div>
                </div>
                 <div className="Home__main__navbar">
-                    <Navbar/>
+                    <Navbar navbar_class="itIsNotHome "/>
                 </div>
 
             </div>
